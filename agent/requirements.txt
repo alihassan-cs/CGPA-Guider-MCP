@@ -1,0 +1,7 @@
+langchain[mcp]
+langchain-groq
+langgraph
+langgraph-checkpoint-sqlite
+aiosqlite
+python-dotenv
+fastmcp
